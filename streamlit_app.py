@@ -44,3 +44,4 @@ streamlit.write('The user entered ', add_my_fruit)
 
 my_cur.execute("insert into fruit_load_list values ('from streamlit')")
 
+from urllib.error import urlerror
